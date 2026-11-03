@@ -99,7 +99,7 @@ This project was my first step into machine learning. It took me from raw data t
 
 ## 🔗 Related Link
 
-[LinkedIn Post](https://www.linkedin.com/in/YOUR-POST-LINK)
+[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7523369566740340736/)
 
 ## 👨‍💻 Author
 
